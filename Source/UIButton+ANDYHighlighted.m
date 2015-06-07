@@ -66,7 +66,7 @@
 
 #pragma mark - UIControl
 
-- (void)setHighlighted:(BOOL)highlighted
+/*- (void)setHighlighted:(BOOL)highlighted
 {
     [super setHighlighted:highlighted];
 
@@ -80,6 +80,6 @@
     if (self.highlightedBackgroundColor) {
         self.backgroundColor = self.highlighted ? self.highlightedBackgroundColor : self.originalBackgroundColor;
     }
-}
+}*/
 
 @end
